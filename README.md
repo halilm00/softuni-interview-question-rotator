@@ -54,5 +54,5 @@ Cards are stored in `data/cards.json` (created automatically). Set `INTERVIEW_RO
 | B – Adaptive Rotation Engine | ✅ done |
 | C – Data Persistence (JSON) | ✅ done |
 | D – CLI Interface | ✅ done |
-| E – Validation & Testing | 🟡 validation done, final review next |
+| E – Validation & Testing | ✅ done |
 | F – Web UI | ✅ done |
