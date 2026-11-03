@@ -1,0 +1,4 @@
+# No external dependencies - the project uses only the Python standard library (3.10+).
+# Run tests:  python3 -m unittest discover -v
+
+
